@@ -1,0 +1,14 @@
+.banner{
+  padding: 0 !important;
+}
+
+.whatsapp_title {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  color: #28b011;
+  font-size: 32px;;
+}
+
+.whatsapp_img{
+  width: 50px;
+}
